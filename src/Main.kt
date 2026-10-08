@@ -1,7 +1,7 @@
 fun main() {
     val string1 = readln()
     var result =""
-    var count = 1;
+    var count = 1
     val lastsymbol = string1 + " "
     for (i in 1 .. lastsymbol.length-1)
     {
